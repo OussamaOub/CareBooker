@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "CareBooker",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover"
+    },
+    "slug": "blank",
+    "version": "1.0.0",
+    "platforms": ["ios", "android", "web"],
+    "extra": {
+      "eas": {
+        "projectId": "551e4795-2a57-4d4a-ba12-cf4e38a276e7"
+      }
+    },
+    "android": {
+      "package": "com.tesseed.blank"
+    },
+    "ios": {
+      "bundleIdentifier": "com.tesseed.blank"
+    }
+  }
+}
